@@ -1,0 +1,116 @@
+{
+    "data" : {
+        "header" : [
+            {
+                "nama" : "Ice Cream Pancake",
+                "harga" : "Rp20.000",
+                "rating" : 4.7,
+                "deskripsi" : "Es krim nikmat yang dipadukan dengan pancake renyah",
+                "bahan" : "Es Krim, Madu Asli, Espresso",
+                "image" : "https://selerasa.com/wp-content/uploads/2016/02/images_Kue-Basah_pancake-ice-cream.jpg"
+            },
+            {
+                "nama" : "Rujak Asem",
+                "harga" : "Rp12.500",
+                "rating" : 3.6,
+                "deskripsi" : "Rujak merupakan makanan asli dari Indonesia, bercita rasa sedikit pedas dan asam",
+                "bahan" : "Aneka Buah, Bumbu Kacang, Cabai",
+                "image" : "https://cdn.idntimes.com/content-images/post/20190618/rujak-ac3ae8b627f877f58f9b489ac239bda0_600x400.jpg"
+            },
+            {
+                "nama" : "Sate",
+                "harga" : "Rp20.000",
+                "rating" : 4.1,
+                "deskripsi" : "Sate merupakan makanan yang sangat digemari berbagai kalangan, berupa daging yang ditusuk lembut dan dimasak dengan cara dibakar",
+                "bahan" : "Daging, Bumbu Kacang, Bawang Mentah",
+                "image" : "https://cdn.idntimes.com/content-images/post/20200206/ayokkkmakan-79165347-124602629009243-4310397314567935158-n-ce3845e6e6ec90c9ef815c26bbab9220_600x400.jpg"
+            },
+            {
+                "nama" : "Steak",
+                "harga" : "Rp85.000",
+                "rating" : 4.8,
+                "deskripsi" : "Makanan orang barat, tersedia dagin steak Wagyu A5 dan A4, silahkan dipilih",
+                "bahan" : "Daging Sapi Segar, Minyak Wijen",
+                "image" : "https://www.infobdg.com/v2/wp-content/uploads/2015/08/Sirloin-Steak.jpg"
+            },
+            {
+                "nama" : "Soto Ayam",
+                "harga" : "Rp27.500",
+                "rating" : 3.9,
+                "deskripsi" : "Makanan khas dari Indonesia khususnya Lamongan, terdapat kaldu gurih yang dapat disesuaikan dengan selera",
+                "bahan" : "Daging Ayam, Kol Goreng, Kaldu, Telur, Mie, Tomat",
+                "image" : "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305.jpg"
+            },
+            {
+                "nama" : "Fried Rice",
+                "harga" : "Rp15.000",
+                "rating" : 4,
+                "deskripsi" : "Makanan andalan orang Indonesia di malam hari, tersebar luas di seluruh penjuru negeri, dan cita rasa yang kami sediakan sangat high-level",
+                "bahan" : "Nasi, Bawang, Telur, Daging Ayam, Ati Ampela, Baso, Sosis, Tomat",
+                "image" : "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1609589194/vd7zarfscnh8hv9lszew.jpg"
+            }
+        ],
+        "new_taste" : [
+            {
+                "nama" : "Rujak Asem",
+                "harga" : "Rp12.500",
+                "rating" : 3.6,
+                "deskripsi" : "Rujak merupakan makanan asli dari Indonesia, bercita rasa sedikit pedas dan asam",
+                "bahan" : "Aneka Buah, Bumbu Kacang, Cabai",
+                "image" : "https://cdn.idntimes.com/content-images/post/20190618/rujak-ac3ae8b627f877f58f9b489ac239bda0_600x400.jpg"
+            },
+            {
+                "nama" : "Soto Ayam",
+                "harga" : "Rp27.500",
+                "rating" : 3.9,
+                "deskripsi" : "Makanan khas dari Indonesia khususnya Lamongan, terdapat kaldu gurih yang dapat disesuaikan dengan selera",
+                "bahan" : "Daging Ayam, Kol Goreng, Kaldu, Telur, Mie, Tomat",
+                "image" : "https://www.masakapahariini.com/wp-content/uploads/2019/11/shutterstock_1469046305.jpg"
+            }
+        ],
+        "popular" : [
+            {
+                "nama" : "Ice Cream Pancake",
+                "harga" : "Rp20.000",
+                "rating" : 4.7,
+                "deskripsi" : "Es krim nikmat yang dipadukan dengan pancake renyah",
+                "bahan" : "Es Krim, Madu Asli, Espresso",
+                "image" : "https://selerasa.com/wp-content/uploads/2016/02/images_Kue-Basah_pancake-ice-cream.jpg"
+            },
+            {
+                "nama" : "Sate",
+                "harga" : "Rp20.000",
+                "rating" : 4.1,
+                "deskripsi" : "Sate merupakan makanan yang sangat digemari berbagai kalangan, berupa daging yang ditusuk lembut dan dimasak dengan cara dibakar",
+                "bahan" : "Daging, Bumbu Kacang, Bawang Mentah",
+                "image" : "https://cdn.idntimes.com/content-images/post/20200206/ayokkkmakan-79165347-124602629009243-4310397314567935158-n-ce3845e6e6ec90c9ef815c26bbab9220_600x400.jpg"
+            },
+            {
+                "nama" : "Fried Rice",
+                "harga" : "Rp15.000",
+                "rating" : 4,
+                "deskripsi" : "Makanan andalan orang Indonesia di malam hari, tersebar luas di seluruh penjuru negeri, dan cita rasa yang kami sediakan sangat high-level",
+                "bahan" : "Nasi, Bawang, Telur, Daging Ayam, Ati Ampela, Baso, Sosis, Tomat",
+                "image" : "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1609589194/vd7zarfscnh8hv9lszew.jpg"
+            },
+            {
+                "nama" : "Steak",
+                "harga" : "Rp85.000",
+                "rating" : 4.8,
+                "deskripsi" : "Makanan orang barat, tersedia dagin steak Wagyu A5 dan A4, silahkan dipilih",
+                "bahan" : "Daging Sapi Segar, Minyak Wijen",
+                "image" : "https://www.infobdg.com/v2/wp-content/uploads/2015/08/Sirloin-Steak.jpg"
+            }
+        ],
+        "recommended" : [
+            {
+                "nama" : "Steak",
+                "harga" : "Rp85.000",
+                "rating" : 4.8,
+                "deskripsi" : "Makanan orang barat, tersedia dagin steak Wagyu A5 dan A4, silahkan dipilih",
+                "bahan" : "Daging Sapi Segar, Minyak Wijen",
+                "image" : "https://www.infobdg.com/v2/wp-content/uploads/2015/08/Sirloin-Steak.jpg"
+            }
+        ]
+    }
+}
